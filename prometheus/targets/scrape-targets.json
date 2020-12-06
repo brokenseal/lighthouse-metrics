@@ -1,0 +1,11 @@
+[
+  {
+    "labels": {
+      "job": "nodes"
+    },
+    "targets": [
+      "beacon_node:5054",
+      "validator_client:5064"
+    ]
+  }
+]

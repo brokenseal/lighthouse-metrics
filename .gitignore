@@ -1,0 +1,6 @@
+.DS_Store
+grafana/data
+prometheus/lock
+prometheus/queries.active
+prometheus/wal/
+prometheus/chunks_head/
