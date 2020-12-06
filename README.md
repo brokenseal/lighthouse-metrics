@@ -1,5 +1,5 @@
-DISCLAIMER: this is a copied (and improved) version of the
-[https://github.com/sigp/lighthouse-metrics](official lighthouse-metrics repo.)
+DISCLAIMER: this is a copied (and improved) version of the official
+[https://github.com/sigp/lighthouse-metrics](lighthouse-metrics) repo.
 
 # Lighthouse Metrics
 
@@ -9,7 +9,7 @@ nodes using Prometheus and presents them in a browser-based Grafana GUI.
 ## Usage
 
 This guide expects you to be running the official
-[https://github.com/sigp/lighthouse-docker](lighthouse docker-compose)
+[https://github.com/sigp/lighthouse-docker](lighthouse) docker-compose
 environment.
 
 1. Bring the environment up with `docker-compose up -d`.
